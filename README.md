@@ -1,0 +1,1 @@
+First version of rock paper scissors, you can view the results in the console.
